@@ -1,8 +1,7 @@
 # AWS WAF — SOC Analyst Knowledge Base
 
-> **Maintained by:** Cloud Security Engineering  
+> **Maintained by:** thecipherclass 
 > **Audience:** SOC Analysts · Detection Engineers · Incident Responders · Cloud Security Engineers · Students  
-> **Classification:** Internal Use  
 > **Version:** 2.0  
 
 ---
